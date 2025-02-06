@@ -2,3 +2,5 @@
 venv/
 .DS_Store
 quickdraw_dataset/
+my_dataset/
+animals/
